@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+https://gereges.github.io/wooden-garage-doors/sitemapx.xml
